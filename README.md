@@ -4,6 +4,11 @@
 🎓 **Engenharia de Software** — Católica de Joinville
 🚀 Preferência por **backend**, com forte atuação em **frontend**
 
+
+![Johann's GitHub stats](https://github-readme-stats.vercel.app/api?username=Levirroh&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Levirroh&layout=compact)
+
 ---
 
 ## 🧠 Sobre mim
@@ -40,8 +45,6 @@ No futuro, pretendo seguir com uma pós-graduação voltada a **Inteligência Ar
 
 ## 🛠️ Tecnologias & Linguagens
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Levirroh&layout=compact)
-
 *(Baseado na minha experiência prática e projetos no GitHub)*
 
 * Python
@@ -58,8 +61,6 @@ No futuro, pretendo seguir com uma pós-graduação voltada a **Inteligência Ar
 * PHP
 * C / C++
 * GameMaker Language (GML)
-
-![Johann's GitHub stats](https://github-readme-stats.vercel.app/api?username=Levirroh&show_icons=true)
 
 ---
 
