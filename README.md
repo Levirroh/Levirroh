@@ -1,16 +1,81 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Johann Ruth
 
-<!--
-**Levirroh/Levirroh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 **Desenvolvedor Full Stack**
+🎓 **Engenharia de Software** — Católica de Joinville
+🚀 Preferência por **backend**, com forte atuação em **frontend**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mim
+
+Atualmente atuo como **desenvolvedor full stack**, participando do desenvolvimento de sistemas web em ambiente profissional.
+Tenho preferência pelo backend, mas gosto igualmente do frontend, sempre buscando equilíbrio entre **arquitetura, regra de negócio e experiência do usuário**.
+
+Trabalho com **APIs REST**, bancos de dados relacionais e versionamento de código.
+No futuro, pretendo seguir com uma pós-graduação voltada a **Inteligência Artificial** ou **desenvolvimento de aplicações**, com forte uso de **Python** e tecnologias modernas.
+
+---
+
+## 🚀 Projeto em Destaque
+
+### 🌍 Journey Planner — *PacknGo*
+
+📌 Aplicação em desenvolvimento focada em **planejamento de viagens**, organização de trajetos e experiências.
+
+🔹 Projeto pessoal em evolução
+🔹 Explora conceitos de full stack, organização de código e arquitetura
+🔹 Foco em escalabilidade e boas práticas
+
+🔗 Repositório:
+[https://github.com/Levirroh/journey-planner](https://github.com/Levirroh/journey-planner)
+
+---
+
+## 🌐 Portfólio
+
+📁 Em construção — reunirá meus principais projetos e experiências:
+[https://github.com/Levirroh/portifolio](https://github.com/Levirroh/portifolio)
+
+---
+
+## 🛠️ Tecnologias & Linguagens
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Levirroh&layout=compact)
+
+*(Baseado na minha experiência prática e projetos no GitHub)*
+
+* Python
+* Node.js
+* TypeScript
+* JavaScript
+* React
+* Angular
+* C# (.NET)
+* HTML5 / CSS3
+* Tailwind CSS
+* Styled Components
+* MySQL
+* PHP
+* C / C++
+* GameMaker Language (GML)
+
+![Johann's GitHub stats](https://github-readme-stats.vercel.app/api?username=Levirroh&show_icons=true)
+
+---
+
+## 🧰 Ferramentas
+
+* Git & GitHub
+* Azure DevOps
+* APIs REST
+
+---
+
+## 📫 Onde me encontrar
+
+* GitHub: [https://github.com/Levirroh](https://github.com/Levirroh)
+* LinkedIn: [https://www.linkedin.com/in/johann-gossen-ruth-33817920a/](https://www.linkedin.com/in/johann-gossen-ruth-33817920a/)
+
+---
+
+⭐ Sempre buscando evoluir e construir soluções bem estruturadas.
