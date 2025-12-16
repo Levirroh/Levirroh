@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Johann Ruth
+# 👋 Olá, eu sou o Johann G. Ruth
 
 💼 **Desenvolvedor Full Stack**
 🎓 **Engenharia de Software** — Católica de Joinville
