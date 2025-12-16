@@ -5,9 +5,16 @@
 🚀 Preferência por **backend**, com forte atuação em **frontend**
 
 
-![Johann's GitHub stats](https://github-readme-stats.vercel.app/api?username=Levirroh&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Levirroh&layout=compact)
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Levirroh&show_icons=true"
+    height="160"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levirroh&layout=compact"
+    height="160"
+  />
+</div>
 
 ---
 
