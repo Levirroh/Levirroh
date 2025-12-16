@@ -4,18 +4,16 @@
 🎓 **Engenharia de Software** — Católica de Joinville
 🚀 Preferência por **backend**, com forte atuação em **frontend**
 
-
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Levirroh&show_icons=true"
+    src="https://github-readme-stats.vercel.app/api?username=Levirroh&show_icons=true&theme=dark"
     height="160"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levirroh&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levirroh&layout=compact&theme=dark"
     height="160"
   />
 </div>
-
 ---
 
 ## 🧠 Sobre mim
